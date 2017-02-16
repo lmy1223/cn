@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'v5: The Fast One'
+title: 'MySQL 左连接出现重复记录的问题'
 tags: [jekyll]
 description: >
 	今天遇到了一个 在 MySQL 左连接时 出现重复记录的问题
