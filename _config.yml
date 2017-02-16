@@ -13,7 +13,7 @@ url:                 http://mingyueli.tech/cn
 # i.e. `http://<username>.github.io`
 baseurl:             /cn
 
-title:               cn
+title:               My Blog Home 
 
 # Pagination
 paginate:            5
@@ -21,10 +21,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  A pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by [`@qwtel`{:style="background: rgba(255, 255, 255, 0.15)"}](https://twitter.com/qwtel)
-  from [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [cned](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
-
+  Welcome to my blogpage ！
 # The tags listed as entries in the sidebar
 sidebar_tags:        [jekyll, hyde]
 
@@ -47,11 +44,8 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, I'm Florian or [`@qwtel`](https://www.twitter.com/qwtel), which isn't an acronym,
-    I just [wanted a short username](http://mingyueli.tech/cn/how-to-find-a-short-username) and that one happened to be available.
-
-    Read my thoughts on [#software](http://mingyueli.tech/cn/tag/software) and [#cryptoeconomics](http://mingyueli.tech/cn/tag/cryptoeconomics).
-
+    
+    Read my thoughts on [IT](http://mingyueli.tech/cn/tag/jekyll) 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
