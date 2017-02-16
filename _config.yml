@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dependencies
 gems:
   - jekyll-sitemap
@@ -109,3 +110,15 @@ compress_html:
 
 sass:
   style:             compressed
+=======
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://mingyueli.tech/cn
+author: 李明月
+pygments: true
+production_url : http://mingyueli.tech/cn
+name: Mingyue Li
+description: 李明月的个人博客
+
+theme: jekyll-theme-cayman
+>>>>>>> dda7b319c03dc8b7945c56164b5b44a6d1bfd473
