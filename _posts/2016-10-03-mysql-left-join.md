@@ -1,15 +1,10 @@
 ---
 layout: post
-title: 'MySQL 左连接出现重复记录的问题'
+title: 'v5: The Fast One'
 tags: [jekyll]
 description: >
-	今天遇到了一个 在 MySQL 左连接时 出现重复记录的问题
-
-	下面就是这个问题的说明
-
-	举个例子两个表主表为A  从表为B
+  This release dramatically increases page load speed which matters to Google and visitors with slow connections alike.
 ---
-
 
 >A       
 
