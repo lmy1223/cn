@@ -23,7 +23,7 @@ paginate_path:       '/page-:num/'
 description:         >
   My blog
 # The tags listed as entries in the sidebar
-sidebar_tags:        [IT, 随便说说]
+sidebar_tags:        [IT, Life]
 
 # Fallback image and color if not overwritten for tag or post
 image:               /cn/public/img/nap.jpg
