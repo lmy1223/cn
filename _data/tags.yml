@@ -17,6 +17,7 @@ hyde:
   color: '#949667'
   description: >
     My Life 
+
 jekyll:
   name: IT
   image: /test/public/img/jekyll.jpg
