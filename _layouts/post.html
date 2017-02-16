@@ -1,19 +1,15 @@
 ---
 layout: default
 ---
-<article class="post">
 
-	{% if page.external-url %}
-		<h1>
-			<a href="{{ page.external-url }}">{{ page.title }}</a> 
-			<a class="anchor" href="{{ page.url }}"><i class="icon-anchor"></i></a>
-		</h1>
-	{% else %}
-		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-	{% endif %}
+{% include post.html post=page link_title=false %}
 
-	<div class="post-content">{{ content }}</div>
+{% if site.author.about %}
+  {% include about.html author=site.author %}
+{% endif %}
 
-	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
+{% include related.html post=page %}
 
-</article>
+{% if site.disqus %}
+{% include comments.html post=page %}
+{% endif %}
