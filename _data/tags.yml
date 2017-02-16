@@ -16,7 +16,7 @@ hyde:
   image: /test/public/img/hyde.jpg
   color: '#949667'
   description: >
-    My Life
+    My Life 
 jekyll:
   name: IT
   image: /test/public/img/jekyll.jpg
