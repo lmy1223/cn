@@ -12,11 +12,11 @@
 # ~~~
 
 hyde:
-  name: 随便说说
+  name: Life
   image: /test/public/img/hyde.jpg
   color: '#949667'
   description: >
-    随便说说
+    My Life
 jekyll:
   name: IT
   image: /test/public/img/jekyll.jpg
