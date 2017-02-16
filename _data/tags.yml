@@ -13,13 +13,13 @@
 
 hyde:
   name: 随便说说
-  image: /test/public/img/hyde.jpg
+  image: /cn/public/img/hyde.jpg
   color: '#949667'
   description: >
     随便说说
 jekyll:
   name: IT
-  image: /test/public/img/jekyll.jpg
+  image: /cn/public/img/jekyll.jpg
   color: '#949667'
   description: >
     About IT 
