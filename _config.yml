@@ -23,7 +23,7 @@ paginate_path:       '/page-:num/'
 description:         >
   Welcome to my blog's homepage ！
 # The tags listed as entries in the sidebar
-sidebar_tags:        [jekyll, hyde]
+sidebar_tags:        [IT, hyde]
 
 # Fallback image and color if not overwritten for tag or post
 image:               /cn/public/img/nap.jpg
