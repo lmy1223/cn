@@ -1,5 +1,5 @@
 ---
 layout: blog-by-tag
 tag: IT
-permalink: /tag/it/
+permalink: /tag/IT/
 ---
