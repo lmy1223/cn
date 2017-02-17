@@ -21,7 +21,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  Welcome to my blogpage ！
+  Welcome to my blog's homepage ！
 # The tags listed as entries in the sidebar
 sidebar_tags:        [jekyll, hyde]
 
