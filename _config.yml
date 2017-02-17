@@ -7,13 +7,13 @@ gems:
 permalink:           pretty
 
 # Setup
-url:                 http://mingyueli.tech/test
+url:                 http://mingyueli.tech/cn
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             /test
+baseurl:             /cn
 
-title:               test
+title:               My Blog Home 
 
 # Pagination
 paginate:            5
@@ -21,15 +21,12 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  A pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by [`@qwtel`{:style="background: rgba(255, 255, 255, 0.15)"}](https://twitter.com/qwtel)
-  from [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [tested](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
-
+  Welcome to my blog's homepage ！
 # The tags listed as entries in the sidebar
 sidebar_tags:        [jekyll, hyde]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /test/public/img/nap.jpg
+image:               /cn/public/img/nap.jpg
 color:               '#A85641'
 
 # Fonts
@@ -42,16 +39,13 @@ author:
   name:              'Florian Klampfer'
 
   # This photo will be used in the about section
-  photo:             http://mingyueli.tech/test/public/img/flo.jpg
-  photo2x:           http://mingyueli.tech/test/public/img/flo@2x.jpg
+  photo:             http://mingyueli.tech/cn/public/img/flo.jpg
+  photo2x:           http://mingyueli.tech/cn/public/img/flo@2x.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, I'm Florian or [`@qwtel`](https://www.twitter.com/qwtel), which isn't an acronym,
-    I just [wanted a short username](http://mingyueli.tech/test/how-to-find-a-short-username) and that one happened to be available.
-
-    Read my thoughts on [#software](http://mingyueli.tech/test/tag/software) and [#cryptoeconomics](http://mingyueli.tech/test/tag/cryptoeconomics).
-
+    
+    Read my thoughts on [IT](http://mingyueli.tech/cn/tag/jekyll) 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
