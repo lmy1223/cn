@@ -6,3 +6,5 @@ pygments: true
 production_url : http://mingyueli.tech/cn
 name: Mingyue Li
 description: 李明月的个人博客
+
+theme: jekyll-theme-cayman
