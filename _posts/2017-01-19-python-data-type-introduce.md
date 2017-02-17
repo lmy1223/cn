@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '简单的讲Python内置数据类型'
-tags: [jekyll]
+tags: [IT]
 description: >
   在众多语言的学习和应用中，数据类型必不可少，当然了核心数据类型也无外乎就那么几种
 
@@ -545,12 +545,3 @@ None为False
 
 ----------
 
-
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2017/01/python-data-type-introduce.html"
-  }
-```

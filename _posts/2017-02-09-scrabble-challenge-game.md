@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Python实现拼字游戏的挑战'
-tags: [jekyll]
+tags: [IT]
 description: >
   这是一个拼字的小游戏，也不能说是游戏吧，反正就是一个看上去好玩的东西，下面就是它的说明。
 
@@ -367,13 +367,3 @@ if __name__ == '__main__':
 
 
 ----------
-
-
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2017/02/scrabble-challenge-game.html"
-  }
-```

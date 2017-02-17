@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Python - Flask 实现登录功能（一）'
-tags: [jekyll]
+tags: [IT]
 description: >
   
   登录功能
@@ -190,15 +190,6 @@ public static function isAppEngine()
 
 ----------
 
-
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2017/02/python-flask-login-logout-1.html"
-  }
-```
 
 
   [1]: https://www.mingyueli.com/usr/uploads/2017/02/3161463909.png

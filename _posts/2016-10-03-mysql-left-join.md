@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MySQL 左连接出现重复记录的问题'
-tags: [jekyll]
+tags: [IT]
 description: >
   今天遇到了一个 在 MySQL 左连接时 出现重复记录的问题
   下面就是这个问题的说明
@@ -63,12 +63,3 @@ description: >
 
 ----------
 
-
-# 关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2016/10/mysql-left-join.html"
-  }
-```

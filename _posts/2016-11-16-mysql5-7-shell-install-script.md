@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MySQL5.7的Linux安装shell脚本之二进制安装'
-tags: [jekyll]
+tags: [IT]
 description: >
   之前写了一个 `MySQL5.6` 的安装脚本
 
@@ -314,12 +314,3 @@ cat /root/.mysql_secret
 
 ----------
 
-
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2016/11/mysql5-7-shell-install-script.html"
-  }
-```

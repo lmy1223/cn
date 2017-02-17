@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Shell编程之 bash 引号'
-tags: [jekyll]
+tags: [IT]
 description: >
   突然发现bash是一个很有意思的东西，对于空格，单引号，双引号，反引号都有特殊的含义，而且在空格的方式来看还有很多说法
 
@@ -92,13 +92,3 @@ He said, "this is mine"
 而当你需要得到一个命令的输出时，请使用反引号；当你需要输出的是一个字符串时，请使用单引号
 
 ----------
-
-
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2016/11/shell-bash-mark-1.html"
-  }
-```

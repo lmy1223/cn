@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Python 装饰器'
-tags: [jekyll]
+tags: [IT]
 description: >
   不只是在 Java C++ 中有面向对象的说法
 
@@ -268,13 +268,5 @@ if __name__ == "__main__":
 1. https://wiki.python.org/moin/PythonDecoratorLibrary
 
 
-
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2017/02/python-decorator-1.html"
-  }
-```
+-------
 

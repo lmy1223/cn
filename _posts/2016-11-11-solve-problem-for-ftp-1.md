@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '搭建简单FTP服务器以及遇到的几个问题（一）'
-tags: [jekyll]
+tags: [IT]
 description: >
   `FTP` 是 File Transfer Protocol（文件传输协议）的英文简称，而中文简称为“文传协议”。用于 Internet 上的控制文件的双向传输。同时，它也是一个应用程序（Application）。
 
@@ -253,12 +253,3 @@ SELinux status:                 disabled
 
 ----------
 
-
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2016/11/solve-problem-for-ftp-1.html"
-  }
-```

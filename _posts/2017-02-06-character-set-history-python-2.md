@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '字符集编码与Python（二）Unicode与utf-8'
-tags: [jekyll]
+tags: [IT]
 description: >
   上一篇提过了字符集的历史其中也简单的提到了 `Unicode` 与 `utf-8` 的关系，下面本文主要介绍了Python中的 Unicode 和 utf-8 ：
  
@@ -310,13 +310,6 @@ Python3 的 `open` 函数本身就提供了 `encoding` 参数
  
 &nbsp;
 
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2017/02/character-set-history-python-2.html"
-  }
-```
+-------------
 
   [1]: http://product.dangdang.com/23895603.html

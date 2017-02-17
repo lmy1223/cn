@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Python与MySQL数据类型及数据处理（二）'
-tags: [jekyll]
+tags: [IT]
 description: >
   综合 MySQL 数据类型和 Python 数据类型 ，以及 MySQL 和 Python 这两种有代表性的数据库和语言 分别对数据的操作 总结为一下内容，其中 对于之前的 MySQL 数据类型和 Python 数据类型 文章 做一个总结 
 
@@ -224,12 +224,3 @@ Python 的用处主要是可以用来获取数据操作数据，比如说操作�
 
 ----------
 
-
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2017/02/python-mysql-data-type-and-deal-2.html"
-  }
-```

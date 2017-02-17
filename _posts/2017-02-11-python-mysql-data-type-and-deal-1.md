@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Python与MySQL数据类型及数据处理（一）'
-tags: [jekyll]
+tags: [IT]
 description: >
   今天有人问我  MySQL的数据类型和 Python 的数据类型有什么区别呢？我一脸懵逼啊
 
@@ -378,12 +378,3 @@ mysql> select
 
 ----------
 
-
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2017/02/python-mysql-data-type-and-deal-1.html"
-  }
-```

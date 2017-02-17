@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HTTPS=HTTP + SSL / TLS'
-tags: [jekyll]
+tags: [IT]
 description: >
   应一个学长的强烈安利，并且经过他的一番刻苦指导，总结了一下关于为什么要用HTTPS以及HTTPS是如何实现的知识
 
@@ -147,14 +147,3 @@ NSA（ 美国国家安全局） 为了解密，不遗余力地收集着 SSL/TLS 
 
 
 ----------
-
-
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2017/01/https-introduce.html"
-  }
-```
-

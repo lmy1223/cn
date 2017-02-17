@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MySQL与Mongo简单的查询 （一）'
-tags: [jekyll]
+tags: [IT]
 description: >
   相信很多数据库方向的人都知道关系型数据库和菲关系型数据库的区别吧
 
@@ -262,11 +262,4 @@ db.demo.aggregate(
 ----------
 
 
-#关于作者
 
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2016/10/mysql-mongodb-select.html"
-  }
-```

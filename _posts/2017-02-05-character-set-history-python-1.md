@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '字符集编码与Python（一）编码历史'
-tags: [jekyll]
+tags: [IT]
 description: >
   相信有很多人和我一样，在写代码的时候经常会被一些各种字符集编码的问题困扰吧，于是最近心血来潮准备好好的嚼嚼字符集编码
 
@@ -220,12 +220,3 @@ UTF-8 编码方法的好处之一是，码点范围`U+0000 ~ U+007F` 编码为�
 
 ----------
 
-
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2017/02/character-set-history-python-1.html"
-  }
-```

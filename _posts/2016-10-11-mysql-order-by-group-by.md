@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '在排序问题上说说order by 与group by'
-tags: [jekyll]
+tags: [IT]
 description: >
   相信了解过关系型数据库的人都知道 `order by` 与 `group by` ，一个是排序，一个是分组，其实这两者并没有关系，但是我为什么要把他们两个拿出来放在一起说明呢，当然是为了解决问题了。
 
@@ -67,11 +67,3 @@ description: >
 ----------
 
 
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2016/10/mysql-order-by-group-by.html"
-  }
-```

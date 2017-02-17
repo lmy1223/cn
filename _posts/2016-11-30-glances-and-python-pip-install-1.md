@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '系统监控glances以及Python&pip 安装'
-tags: [jekyll]
+tags: [IT]
 description: >
   `glances` 是前几天一个前辈推荐的系统监控系统，最近尝试用了一下，感觉比很多的监控系统实用，比如 `top` 只能监控本机的系统，但是 glances 即可以监控本机，也可以通过客户端模式监控其他的机器，可以把数据输出到 csv 或者 html 格式的文件 也就方便了绘制图表或者是其他程序处理，而且很实用的是他提供了基于 Xml/RPC 的 API ，这就让他实现可编程的应用
 
@@ -144,13 +144,3 @@ Glances server is running on 111.111.111.111:61209
 ![](https://okwbu9s8e.qnssl.com/glances2.png)
  
 ----------
-
-
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2016/11/glances-and-python-pip-install-1.html"
-  }
-```

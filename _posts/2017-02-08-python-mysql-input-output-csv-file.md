@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Python操作MySQL写入读出CSV文件'
-tags: [jekyll]
+tags: [IT]
 description: >
   前几日看到有人讨论说一个Python的面试题，题目是这样的：
 
@@ -202,13 +202,4 @@ if __name__ == '__main__':
 
 ----------
 
-
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2017/02/python-mysql-input-output-csv-file.html"
-  }
-```
 

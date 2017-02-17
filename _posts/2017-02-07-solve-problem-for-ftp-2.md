@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '搭建简单FTP服务器中处理的几个问题（二）'
-tags: [jekyll]
+tags: [IT]
 description: >
   之前写过一篇文章是关于搭建FTP的，当时是一时心血来潮，随便弄了一下其中出了一部分错误，也没有具体的记录下来，最近由于一些原因，需要自己重新拿过来好好研究一下，于是又开始研究起来，具体的搭建过程我就不说了，搭建中详细的内容可以参考
 
@@ -203,13 +203,3 @@ userlist_file=/etc/vsftpd/user
 状态:	列出“/var/ftp/pub”的目录成功
 ```
 ----------
-
-
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2017/02/solve-problem-for-ftp-2.html"
-  }
-```

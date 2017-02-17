@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Python简单脚本之一 （备份压缩文件）'
-tags: [jekyll]
+tags: [IT]
 description: >
   主要实现的功能如下：
 
@@ -151,12 +151,3 @@ except IndexError:
 
  ----------
 
-
-#关于作者
-
-```python
-  {
-    author  : "NULL&ERROR",
-    site : "www.mingyueli.com/2016/11/python-backup-script.html"
-  }
-```
