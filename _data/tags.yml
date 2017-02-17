@@ -13,14 +13,14 @@
 
 Life:
   name: Life
-  image: /test/public/img/Life.jpg
+  image: /cn/public/img/Life.jpg
   color: '#949667'
   description: >
     About Life .
 
 IT:
   name: IT
-  image: /test/public/img/IT.jpg
+  image: /cn/public/img/IT.jpg
   color: '#949667'
   description: >
     About IT .
