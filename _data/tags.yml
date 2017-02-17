@@ -11,16 +11,16 @@
 #     *My Tag* is an example of how to define a custom tag.
 # ~~~
 
-hyde:
+Life:
   name: Life
-  image: /test/public/img/hyde.jpg
+  image: /test/public/img/Life.jpg
   color: '#949667'
   description: >
-    My Life .
+    About Life .
 
 IT:
   name: IT
-  image: /test/public/img/jekyll.jpg
+  image: /test/public/img/IT.jpg
   color: '#949667'
   description: >
     About IT .
