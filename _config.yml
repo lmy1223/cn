@@ -13,7 +13,7 @@ url:                 http://mingyueli.com/cn
 # i.e. `http://<username>.github.io`
 baseurl:             /cn
 
-title:               My Blog Home 
+title:               Mingyue Li 
 
 # Pagination
 paginate:            5
