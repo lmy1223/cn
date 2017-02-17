@@ -1,24 +1,6 @@
-<aside class="author" id="about">
-  <h2>Author</h2>
-  {% if include.author.photo %}
-    {% if include.author.photo2x %}
-    <img
-      class="me"
-      alt="{{ include.author.name }}"
-      src="{{ include.author.photo }}"
-      srcset="{{ include.author.photo2x }} 2x"
-      />
-    {% else %}
-    <img
-      class="me"
-      alt="{{ include.author.name }}"
-      src="{{ include.author.photo }}"
-      />
-    {% endif %}
-  {% endif %}
-</aside>
-
 <aside class="author" id="images">
+  {% include about-short.html author=site.author %}
+  
   <h2>Images</h2>
   
   {% include.author.images author=site.author %}

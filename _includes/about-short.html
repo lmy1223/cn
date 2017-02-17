@@ -16,8 +16,9 @@
       />
     {% endif %}
   {% endif %}
+  {% include.author.about author=site.author %}
+  
 </aside>
-
 
 {{ include.author.about | markdownify }}
 
