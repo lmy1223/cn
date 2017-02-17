@@ -46,8 +46,15 @@ author:
   about:             |
     
     Read my thoughts on [IT](http://mingyueli.com/cn/tag/jekyll) 
-
+  
+  # 介绍
   introduce:
+
+  # 关于我
+  me:
+
+  # 声明
+  statement:
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
