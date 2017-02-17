@@ -1,7 +1,30 @@
+<aside class="author" role="complementary">
+  <h2>Author</h2>
+  {% if include.author.photo %}
+    {% if include.author.photo2x %}
+    <img
+      class="me"
+      alt="{{ include.author.name }}"
+      src="{{ include.author.photo }}"
+      srcset="{{ include.author.photo2x }} 2x"
+      />
+    {% else %}
+    <img
+      class="me"
+      alt="{{ include.author.name }}"
+      src="{{ include.author.photo }}"
+      />
+    {% endif %}
+  {% endif %}
+</aside>
+
+
 <aside class="author" id="introduce">
-  <h2>介绍</h2>
-  
+  <h2>Images</h2>
+
   {% include.author.introduce author=site.author %}
   
 </aside>
+
+{{ include.author.introduce | markdownify }}
 {{ include.author.about | markdownify }}
