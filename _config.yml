@@ -57,6 +57,9 @@ author:
   # 声明
   statement:
 
+  # 联系方式
+  contact:
+
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
