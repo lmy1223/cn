@@ -266,7 +266,7 @@ if __name__ == "__main__":
 
 # 参考资料
 
-1. https://wiki.python.org/moin/PythonDecoratorLibrary
+1. [https://wiki.python.org/moin/PythonDecoratorLibrary](https://wiki.python.org/moin/PythonDecoratorLibrary)
 
 
 -------
