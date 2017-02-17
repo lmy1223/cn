@@ -157,7 +157,8 @@ def reverse_string(string):
 想要获取原来函数的函数名或者帮助文档可以使用Python的一个标准库 ： `functools`    调用装饰器    `@functools.wraps(f)`
 &nbsp;
 
-```
+```python
+
 In [7]: import time 
 # In [25]: import functools
 
