@@ -26,7 +26,7 @@ MySQL中 数字类型有两种
 
 详情请见
 
-[www.mingyueli.com/2017/02/python-mysql-data-type-and-deal-1.html](www.mingyueli.com/2017/02/python-mysql-data-type-and-deal-1.html)
+[http://mingyueli.com/cn/2017/02/11/python-mysql-data-type-and-deal-1/](http://mingyueli.com/cn/2017/02/11/python-mysql-data-type-and-deal-1/)
 
 但是 python 中 只有整数 `int` 和浮点数 `float` 的区别
 
@@ -96,10 +96,10 @@ MySQL里面时间类型分为五种 ：date ， datetime ，  time  ， year  �
 python的内置数据类型里面没有日期和时间这个数据类型，但是可以通过  `datetime`  和 ` time ` 标准库模块来实现对日期时间的管理，下面我们来重点说一下python 实现时间和日期的标准库。
 
 可以转换为 时间数组，时间戳，自定义格式的时间类型
-&nbsp
+&nbsp;
 
 >> 下面就用python的标准库 `time` 将 字符串转换为时间戳或者指定的时间格式输出
-&nbsp
+&nbsp;
 
 ```python
 In [1]: a = "2017-02-13 10:10:00"
@@ -142,10 +142,10 @@ Out[14]: ' 10:10:00'
 In [15]:
 
 ```
-&nbsp
+&nbsp;
 
 >> 得到当前时间并且转换为指定的格式输出
-&nbsp
+&nbsp;
 
 ```python
 In [17]: now = int(time.time())     #当前时间输出为时间戳格式
@@ -169,7 +169,7 @@ In [21]: timeStyle5 = time.strftime("%Y-%m-%d %H:%M:%S", timeArray)     # 由数
 
 #### mysql 的日期函数
 
-&nbsp
+&nbsp;
 
 ```
 mysql> select now();
