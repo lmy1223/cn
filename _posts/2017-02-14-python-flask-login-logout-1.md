@@ -16,7 +16,7 @@ description: >
 
 <!--more-->
 
-![Image.png][1]
+![http://olinvkfrw.bkt.clouddn.com/3161463909.png][1]
 
 
 
@@ -192,9 +192,9 @@ public static function isAppEngine()
 
 
 
-  [1]: https://www.mingyueli.com/usr/uploads/2017/02/3161463909.png
-  [2]: https://www.mingyueli.com/usr/uploads/2017/02/3402190077.png
-  [3]: https://www.mingyueli.com/usr/uploads/2017/02/1609114575.png
-  [4]: https://www.mingyueli.com/usr/uploads/2017/02/2363088965.png
-  [5]: https://www.mingyueli.com/usr/uploads/2017/02/592405647.png
+  [1]: http://olinvkfrw.bkt.clouddn.com/3161463909.png
+  [2]: http://olinvkfrw.bkt.clouddn.com/3402190077.png
+  [3]: http://olinvkfrw.bkt.clouddn.com/1609114575.png
+  [4]: http://olinvkfrw.bkt.clouddn.com/2363088965.png
+  [5]: http://olinvkfrw.bkt.clouddn.com/592405647.png
   [6]: https://github.com/lmy1223/python_test_code/tree/master/flask_test/login-flask-bootstrap-test/templates
