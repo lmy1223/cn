@@ -7,7 +7,7 @@ description: >
 
 
 ---
-[http://olinvkfrw.bkt.clouddn.com/7aec54e736d12f2eebfcab9f4fc2d56284356857.jpg](http://olinvkfrw.bkt.clouddn.com/7aec54e736d12f2eebfcab9f4fc2d56284356857.jpg)
+[7aec54e736d12f2eebfcab9f4fc2d56284356857.jpg](http://olinvkfrw.bkt.clouddn.com/7aec54e736d12f2eebfcab9f4fc2d56284356857.jpg)
 两个小时的电影，场面压抑，冰冷的现实让人窒息，
 电影悲剧的结局更是引人深思 。
 全局贯穿并没有提到熔炉两个字
