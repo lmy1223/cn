@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ' Git 操作 pull & fetch'
+title: 'Git 操作 pull & fetch'
 tags: [IT]
 description: >
 	pull  和  fetch   区别
