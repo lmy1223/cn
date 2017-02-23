@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ' Python 数据 & 语法 '
+title: ' Python 简单数据 & 语法 '
 tags: [IT]
 description: >
   
