@@ -123,6 +123,7 @@ In [8]: for c in test_yield(5):
 生成器表达式的写法：
 
 ```python
+
 # 生成器表达式
 In [14]: ( a*a for a in range(5) )
 Out[14]: <generator object <genexpr> at 0x0000000003D2E900>
@@ -149,28 +150,102 @@ Out[17]: [0, 1, 4, 9, 16]
 * 生成器只能迭代一次
 
 
+
 ```python
 
-def normalize(numbers):
-	total = sum(numbers)
+def percent_total(line_length):
+	total_length = sum(line_length)      # 遍历一遍 获取一个总数
 	result = []
-	for value in numbers:
-		percent = 100 * value / total
-		result.append(percent)
+	for i in line_length:
+		line_percent = 100 * i / total_length      # 每一行长度占总长度的百分数 
+		result.append(line_percent)      # 添加到 line_percent 列表里面
 	return result
 
-
-def read_visits(path):
-	with open(path) as f:
+# 生成器
+def file_line_length(file_name):
+	with open(file_name) as f:       # 打开一个文件
 		for line in f:
-			yield int(line)
+			yield len(line)       # 返回每一行的长度
+
+a = file_line_length('data.txt')
+b= percent_total(a)
+print(b)
 
 
 
-it = read_visits('/tmp/mydata.txt')
-percentages = normalize(it)
-print(percentages)
+# 演示
+In [8]:
+   ...: def percent_total(line_length):
+   ...:     total_length = sum(line_length) 
+   ...:     result = []
+   ...:     for i in line_length:
+   ...:         line_percent = 100 * i / total_length 
+   ...:         result.append(line_percent)    
+   ...:     return result
+   ...:
 
->>> []
+In [9]: def file_line_length(file_name):
+   ...:     with open(file_name) as f:  
+   ...:         for line in f:
+   ...:             yield len(line)  
+   ...:
+   ...:
+
+In [10]: a = file_line_length('data.txt')
+    ...: b= percent_total(a)
+    ...: print(b)
+    ...:
+[]
+
+```
+改正
+
+```python
+def percent_total(line_length):
+	total_length = sum(line_length)      # 遍历一遍 获取一个总数
+	result = []
+	for i in line_length:
+		line_percent = "{0}%".format(100 * i / total_length)      # 每一行长度占总长度的百分数 
+		result.append(line_percent)      # 添加到 line_percent 列表里面
+	return result
+
+# 生成器
+def file_line_length(file_name):
+	with open(file_name) as f:       # 打开一个文件
+		for line in f:
+			yield len(line)       # 返回每一行的长度
+
+a = list(file_line_length('data.txt'))			# 放到 list 里
+b= percent_total(a)
+print(b)
+
+
+# 演示
+In [54]: def percent_total(line_length):
+    ...:     total_length = sum(line_length)
+    ...:     result = []
+    ...:     for i in line_length:
+    ...:         line_percent = "{0}%".format(100 * i / total_length)      
+    ...:         result.append(line_percent)     
+    ...:     return result
+    ...:
+
+In [55]:
+    ...: # 生成器
+    ...: def file_line_length(file_name):
+    ...:     with open(file_name) as f:  
+    ...:         for line in f:
+    ...:             yield len(line)  
+    ...:
+
+In [56]: a = list(file_line_length('data.txt'))
+
+In [57]: a
+Out[57]: [6, 11, 1, 3, 1, 3]
+
+In [58]: b= percent_total(a)
+
+In [59]: print b
+['24%', '44%', '4%', '12%', '4%', '12%']
 
 ```
