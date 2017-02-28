@@ -22,7 +22,7 @@ paginate_path:       '/page-:num/'
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
   Hello friend ！Welcome to my blog's homepage ！
-  Here I can share with you the joy and knowledge, but please pay attention to copyright ！oh !
+  Here I can share with you the joy and knowledge, but please pay attention to copyright ！
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [IT, Life]
