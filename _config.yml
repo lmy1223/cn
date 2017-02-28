@@ -21,7 +21,9 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  Welcome to my blog's homepage ！
+  Hello friend ！Welcome to my blog's homepage ！
+  Here I can share with you the joy and knowledge, but please pay attention to copyright ！oh !
+
 # The tags listed as entries in the sidebar
 sidebar_tags:        [IT, Life]
 
@@ -44,10 +46,12 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hello, I am [Mingyue Li](http://mingyueli.com/).
+    Hello, I am [Mingyue Li](http://mingyueli.com/).  Read my thoughts on [IT](http://mingyueli.com/cn/tag/IT) and [Life](http://mingyueli.com/cn/tag/Life)
+    
+    Copyright Declaration：
 
-    Read my thoughts on [IT](http://mingyueli.com/cn/tag/IT) and [Life](http://mingyueli.com/cn/tag/Life)
-  
+    All articles and pictures contained on this web site is copyright protected. Use or copy of articles and pictures of this web site is forbidden.
+    If reproduced, must contain this statement, and indicate the original author and the original address of this article
   # 介绍
   introduce:
 
