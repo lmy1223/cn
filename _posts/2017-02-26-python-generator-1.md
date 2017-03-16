@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ' Python 生成器 '
+title: ' 再探黑魔法-Python 生成器 '
 tags: [IT]
 description: >
   

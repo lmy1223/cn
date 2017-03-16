@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ' Python 迭代器 '
+title: ' 你了解女巫们的黑魔法么？-Python 迭代器 '
 tags: [IT]
 description: >
   
