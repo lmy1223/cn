@@ -1,5 +1,5 @@
 {% assign post = include.post %}
-{{% include.title-with-author %}}
+{{% include title-with-author %}}
 <article id="post-{{ post.id | slice: 1,9999 }}" class="post" role="article">
   <h1 class="post-title">
   {% if include.link_title %}<a href="{{ post.url | prepend:site.baseurl }}">{% endif %}
