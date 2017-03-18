@@ -3,7 +3,6 @@ layout: post
 title: ' 超好玩的编辑距离 '
 tags: [IT]
 comments = true
-date = 2014-08-09T05:04:40Z 
 description: >
   
 ---
