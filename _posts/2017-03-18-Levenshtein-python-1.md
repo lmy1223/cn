@@ -3,7 +3,8 @@ layout: post
 title: ' 超好玩的编辑距离 '
 tags: [IT]
 description: >
-  
+comments = true
+
 ---
 
 ## 编辑距离
