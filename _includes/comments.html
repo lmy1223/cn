@@ -1,5 +1,5 @@
 {% assign post = include.post %}
-
+{% if page.comments %}
 <aside class="comments" role="complementary">
   <h2>Comments</h2>
 
@@ -23,5 +23,5 @@
 	})();
 	</script>
 	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                                
+{% endif %}                                
 </aside>
