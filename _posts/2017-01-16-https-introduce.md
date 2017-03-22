@@ -129,10 +129,9 @@ HTTPS不是一种新的协议，是HTTP + SSL/TLS， 也就是在TCP（负责网
 
 > 2、
 
-NSA（ 美国国家安全局） 为了解密，不遗余力地收集着 SSL/TLS 流量（但是好几年前的事情了，现在已经解决了，我简单的查了一下，效率也相当的高）
-
+NSA（ 美国国家安全局） 植入后门：实际上是在bsafe中使用Dual_EC_DRBG作为Bsafe中的首选随机数生成算法。（但是好几年前的事情了，现在已经解决了，我简单的查了一下，效率也相当的高）
 >3 、
-等等（还有一些漏洞等等，我大概查了一下，但是基本上都是很快就解决了。）
+PKI体系的漏洞（社会学问题）、不安全的密钥协商（RC4等）、不安全的协议（SSL全系列）、SSLStrip（SSL降级攻击）、野兽攻击等等。
 
 
 但是在网络化科技发达的今天，所谓的网络安全是很重要的，非常重要的（也可以这么说），所以相对于 传统意义上的不安全的HTTP， 毫无疑问，你应该使用HTTPS。
@@ -142,8 +141,8 @@ NSA（ 美国国家安全局） 为了解密，不遗余力地收集着 SSL/TLS 
 #参考资料
 
 
-1. https://www.bennythink.com/school-1.html
-2. https://www.bennythink.com/school-2.html
+1. [https://www.bennythink.com/school-1.html](https://www.bennythink.com/school-1.html)
+2. [https://www.bennythink.com/school-2.html](https://www.bennythink.com/school-2.html)
 
 
 ----------

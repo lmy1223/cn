@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: ' 超好玩的编辑距离 '
 tags: [IT]
 description: >
