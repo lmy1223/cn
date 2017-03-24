@@ -41,7 +41,7 @@ MongoDB 是一个基于分布式文件存储的数据库。由C++语言编写。
 
 ### mongodump
 备份
-` mongodump -h IP --port 端口 -u 用户名 -p 密码 -d 数据库 -o 文件存在路径`
+`mongodump -h IP --port 端口 -u 用户名 -p 密码 -d 数据库 -o 文件存在路径`
 
 ```powershell
 
@@ -104,6 +104,8 @@ stead
 
 ```
 
+CSV如下所示：
+
 |1 | 2|
 | :--: |:--:|
 |name|	password|
@@ -123,6 +125,8 @@ D:\56\mongo\login\testLogin.csv
 2017-03-21T09:02:36.785+0800    imported 4 documents
 
 ```
+
+CSV如下所示：
 
 |1 | 2|
 | :--: |:--:|
